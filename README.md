@@ -1,4 +1,4 @@
-# Meeting Minutes Generator
+MinutIQ
 
 A web application that converts meeting transcripts into structured meeting minutes with decisions, action items, and participants — powered by AI with strict anti-hallucination guardrails.
 
